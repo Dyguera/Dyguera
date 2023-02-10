@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Rodrigo Cruz
 Estou evoluindo nos meus estudos em ser um desenvolvedor fullstack  e <br>gostaria de ingressar em empresas que me proporcionem crescimento nessas<br>minhas áreas de interesse.<br><br>I'm evolving in my studies in being a fullstack developer and<br>I would like to join companies that provide me with growth in these<br>my areas of interest.<br><br>🌍  I'm based in Paraná - Brasil<br>✉️  You can contact me at tomazetto.cruz@gmail.com<br>🧠  I'm learning Typescript, JavaScript, React, NodeJs<br>🤝  I'm open to collaborating on projects to learn and gain experience<br>🚀  Current job at aiqfome | Magalu as Suport team
 
 
