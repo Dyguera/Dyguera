@@ -1,4 +1,4 @@
-Rodrigo Cruz
+## Rodrigo Cruz
  Desenvolvedor Fullstack Junior com habilidades em React, Node.js e SQL, focado em criar interfaces responsivas e integrações eficientes. 
  Combino experiência em suporte técnico com conhecimentos em QA para entregar soluções robustas.
  
