@@ -1,6 +1,10 @@
-# 💫 About Me: Rodrigo Cruz
-Estou evoluindo nos meus estudos em ser um desenvolvedor fullstack  e <br>gostaria de ingressar em empresas que me proporcionem crescimento nessas<br>minhas áreas de interesse.<br><br>I'm evolving in my studies in being a fullstack developer and<br>I would like to join companies that provide me with growth in these<br>my areas of interest.<br><br>🌍  I'm based in Paraná - Brasil<br>✉️  You can contact me at tomazetto.cruz@gmail.com<br>🧠  I'm learning Typescript, JavaScript, React, NodeJs<br>🤝  I'm open to collaborating on projects to learn and gain experience<br>🚀  Current job at aiqfome | Magalu as Suport team
-
+Rodrigo Cruz
+ Desenvolvedor Fullstack Junior com habilidades em React, Node.js e SQL, focado em criar interfaces responsivas e integrações eficientes. 
+ Combino experiência em suporte técnico com conhecimentos em QA para entregar soluções robustas.
+ 
+ Destaques:
+ Desenvolvi um CRUD completo (Front: React | Back: Node/Express) com testes automatizados em Cypress
+ Conhecimento em RESTful APIs, Git e Docker para deploy escalável. Experiência em metodologias ágeis e ferramentas como JIRA e Slack.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rodrigo.tomazettocruz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigocruz95) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-tomazetto-cruz-646399217) 
